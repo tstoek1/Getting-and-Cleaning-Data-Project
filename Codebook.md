@@ -1,7 +1,5 @@
----
-title: "Code Book"
-output: word_document
----
+#  Code Book
+
 
 This code book describes each variable and its values in the tidy data set.
 

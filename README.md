@@ -1,14 +1,14 @@
----
-title: "Getting and Cleaning Data, Course Project"
-output: word_document
----
+# Getting and Cleaning Data, Course Project
+
 
 The project data represent data collected from the accelerometers from the Samsung Galaxy S smartphone.  A full description can be found here:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
+
 **Before running code, download data from the following site, unzip and save to your working directory.**
 http://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 
 
 ##run_analysis.R code performs the following actions:
